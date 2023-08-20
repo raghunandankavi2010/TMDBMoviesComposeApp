@@ -15,4 +15,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "ComposeMoviesApp"
 include(":app")
- 
+
+include(":network")
+include(":commonui")
+include(":common")
+
